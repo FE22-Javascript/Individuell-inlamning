@@ -28,7 +28,7 @@ För att få läsrättigheter måste du i din request bifoga headern ```x-zocom`
 Ex. 
 
 ```js
-let resp = await fetch('https://fathomless-shelf-54969.herokuapp.com/bodies', {
+let resp = await fetch('https://solaris.zocom.workers.dev/', {
     method: 'GET',
     headers: {'x-zocom': '<solaris-key-here>'}
 })
