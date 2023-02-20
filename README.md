@@ -28,10 +28,7 @@ För att få läsrättigheter måste du i din request bifoga headern ```x-zocom`
 Ex. 
 
 ```js
-let resp = await fetch('https://solaris.zocom.workers.dev/', {
-    method: 'GET',
-    headers: {'x-zocom': '<solaris-key-here>'}
-})
+let resp = await fetch('https://majazocom.github.io/Data/solaris.json');
 ```
 
 ## Modell
