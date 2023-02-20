@@ -73,8 +73,7 @@ let resp = await fetch('https://solaris.zocom.workers.dev/', {
 ## Godkänt:
 * Använt HTML, CSS (inkl. flexbox eller grid) och Vanilla JS 
 * Kan söka på planeter med hjälp av textsök
-* Visa sökresultat på ett snyggt sätt
-* Kan presentera vald planet på ett snyggt vis (ex. lightbox)
+* Visa sökresultat på ett snyggt sätt (Kan presentera vald planet på ett snyggt vis (ex. lightbox))
 
 ## Väl godkänt:
 * Effekter på planeter mha CSS och JS. Ex: rotation vid hover, fina slides vid inladdning av planet
