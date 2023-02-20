@@ -72,7 +72,7 @@ let resp = await fetch('https://fathomless-shelf-54969.herokuapp.com/bodies', {
 
 ## Godkänt:
 * Använt HTML, CSS (inkl. flexbox eller grid) och Vanilla JS 
-* Kan söka på planeter med hjälp av textxök
+* Kan söka på planeter med hjälp av textsök
 * Visa sökresultat på ett snyggt sätt
 * Kan presentera vald planet på ett snyggt vis (ex. lightbox)
 
