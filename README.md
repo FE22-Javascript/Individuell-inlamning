@@ -68,12 +68,12 @@ let resp = await fetch('https://majazocom.github.io/Data/solaris.json');
 ```
 
 ## Godkänt:
-* Använt HTML, CSS (inkl. flexbox eller grid) och Vanilla JS 
+* Använt HTML, CSS och Vanilla JS 
 * Kan söka på planeter med hjälp av textsök
 * Visa sökresultat på ett snyggt sätt (Kan presentera vald planet på ett snyggt vis (ex. lightbox))
 
 ## Väl godkänt:
-* Effekter på planeter mha CSS och JS. Ex: rotation vid hover, fina slides vid inladdning av planet
+* Effekter på planeter mha CSS och JS. Ex: rotation vid hover, fina slides vid inladdning av planet (valfri)
 * Pagination-funktionalitet. Kunna bläddra mellan olika sidor av sökresultaten
 * Felhantering där felkod presenteras användaren
 
